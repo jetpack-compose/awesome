@@ -278,6 +278,7 @@
 - [WYSIWYG Rich Editor Compose](https://github.com/canopas/rich-editor-compose) - Android WYSIWYG Rich editor for Jetpack compose.
 - [Animated BottomBar Compose](https://github.com/canopas/compose-animated-navigationbar) - A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.
 - [YouTubePlayer](https://github.com/IlyaPavlovskii/YouTubePlayer) - YouTube kotlin multiplatform player. The YouTubePlayer composable allows you to embed a YouTube video player in your Jetpack Compose app.
+- [Stopwatch Timer](https://github.com/amit-bhandari/Stopwatch-Jetpack-Compose) -  iOS Clock app inspired stopwatch timer UI using Compose graphics API. Step by step process documented [here](https://amit-bhandari.github.io/posts/jetpack-compose-custom-view/)
 
 ## <a name="app-projects"></a> App Projects
 
